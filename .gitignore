@@ -1,0 +1,17 @@
+# Local app settings (not part of the website)
+.claude/
+
+# Download copy of the site (duplicates the files in this repository)
+service-line-site.zip
+*.zip
+
+# Source photos; the site uses the compressed versions in images/
+image-originals/
+
+# ChatGPT prompts used to make the photos
+image-prompts.md
+
+# System files
+Thumbs.db
+Desktop.ini
+.DS_Store
